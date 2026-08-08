@@ -1,9 +1,9 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
+  "versionCode": 4,
+  "versionName": "1.0.3",
   "releasedAt": "2026-08-08",
-  "apkUrl": "https://github.com/mittohoa/fidgy-release/releases/download/v1.0.2/Fidgy-1.0.2.apk",
-  "sizeBytes": 21912940,
-  "sha256": "9114c6e0eab3df0f2e32b9548a548a3b9026903cf25f8f78ae7221af38bbd277",
-  "notes": "Nổ bong bóng làm lại: bong bóng bay lên, cỡ khác nhau. Trang chủ và Dẫn nước hết giật."
+  "apkUrl": "https://github.com/mittohoa/fidgy-release/releases/download/v1.0.3/Fidgy-1.0.3.apk",
+  "sizeBytes": 22147805,
+  "sha256": "4b104fa16a25c553f65d9c18f852708df9b7059cadc359a5e8cef030d77fb6a5",
+  "notes": "Ba game mới: Nặn gốm (bàn xoay, chọn men rồi nung), Cào thẻ (12 phần thưởng, có bộ sưu tập) và Lắc bi (nghiêng máy cho bi lăn). Trang nhật ký dựng lại gọn hơn."
 }
