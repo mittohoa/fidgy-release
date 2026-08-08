@@ -1,9 +1,9 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
+  "versionCode": 3,
+  "versionName": "1.0.2",
   "releasedAt": "2026-08-08",
-  "apkUrl": "https://github.com/mittohoa/fidgy-release/releases/download/v1.0.1/Fidgy-1.0.1.apk",
-  "sizeBytes": 21911000,
-  "sha256": "b941673da3558de4ba225b3d47e6265ee2c55d01c998fc30a5e338c6c339da71",
-  "notes": "Mỗi game một giao diện riêng, bỏ thanh tiêu đề dùng chung. Cài đè không mất nhật ký."
+  "apkUrl": "https://github.com/mittohoa/fidgy-release/releases/download/v1.0.2/Fidgy-1.0.2.apk",
+  "sizeBytes": 21912940,
+  "sha256": "9114c6e0eab3df0f2e32b9548a548a3b9026903cf25f8f78ae7221af38bbd277",
+  "notes": "Nổ bong bóng làm lại: bong bóng bay lên, cỡ khác nhau. Trang chủ và Dẫn nước hết giật."
 }
