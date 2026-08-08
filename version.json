@@ -1,9 +1,9 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
+  "versionCode": 1,
+  "versionName": "1.0.0",
   "releasedAt": "2026-08-08",
   "apkUrl": "https://github.com/mittohoa/fidgy-release/releases/download/v1.0.0/Fidgy-1.0.0.apk",
   "sizeBytes": 21897513,
   "sha256": "4797266b98d83475d409cb6e3829e0714d4c1c8978cc38da561c432231072e6d",
-  "notes": "Ban thu de kiem tra co che tu cap nhat."
+  "notes": "Ban dau tien: 14 game bam nghich, nhat ky thu gian, am thanh va icon dung bang code."
 }
